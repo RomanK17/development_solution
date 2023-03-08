@@ -15,6 +15,7 @@ text-transform: uppercase;
 color: transparent;
 background: linear-gradient(to right, #4343FF 0%, #F96D6D 80%);
 -webkit-background-clip: text;
+background-clip: text;
 padding-top: 80px;
 min-width: 400px;
 }
